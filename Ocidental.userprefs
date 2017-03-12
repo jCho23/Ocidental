@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{52895522-9B56-4166-A9C3-A5BF8EE7822F}|Unit Tests">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Ocidental/Tests.cs">
+    <Files>
+      <File FileName="Ocidental/AppInitializer.cs" Line="31" Column="18" />
+      <File FileName="Ocidental/Tests.cs" Line="9" Column="20" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Ocidental" expanded="True">
+            <Node name="Ocidental" expanded="True">
+              <Node name="Ocidental" expanded="True">
+                <Node name="Tests" expanded="True">
+                  <Node name="Tests(Android)" expanded="True">
+                    <Node name="FirstTest" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Ocidental PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
