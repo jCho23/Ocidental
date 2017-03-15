@@ -1,14 +1,14 @@
 # Ocidental
 Automation Test Scripts for Ocidental
 
-#Authors
+# Authors
 
 **June Cho**
 <br>
 *Microsoft Technical Solutions Professional*
 
 
-#License
+# License
 
 MIT License
 
